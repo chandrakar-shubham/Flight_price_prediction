@@ -36,10 +36,10 @@ After Experimenting with various ML model. XGBoost Regressor model is making pre
 
 Way Ahead:
 
-More non-stop flight must be added as it is seen that it cost much lower than flight which has more than or equal to 1 stop.
+- More non-stop flight must be added as it is seen that it cost much lower than flight which has more than or equal to 1 stop.
 
-1 stop flight cost much higher so it is costly for people travelling from origin to destination location. Some of then can be converted to non-stop if after data augmentation if it is found that most of the people are travelling form origin to destination. It will save money for airline company as well as for passengers.
+- 1 stop flight cost much higher so it is costly for people travelling from origin to destination location. Some of then can be converted to non-stop if after data augmentation if it is found that most of the people are travelling form origin to destination. It will save money for airline company as well as for passengers.
 
-Mumbai and Delhi are most popular destinantion so they must be managed and maintained very well so that customer can access services more easily and conviniently.
+- Mumbai and Delhi are most popular destinantion so they must be managed and maintained very well so that customer can access services more easily and conviniently.
 
 
