@@ -8,5 +8,7 @@ Create a model which will predict the price of the flight
 - Pandas
 - Numpy
 - Matlpotlib
+- Scikit-Learn
+- Tensorflow
 
 
