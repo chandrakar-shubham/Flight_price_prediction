@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685295845050
+current_stage: None
+description: null
+last_updated_timestamp: 1685295845050
+name: lasso_regression_cv
+run_id: 0dbaae0e9fa54f69a2d30430e8e8d07a
+run_link: null
+source: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/0dbaae0e9fa54f69a2d30430e8e8d07a/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

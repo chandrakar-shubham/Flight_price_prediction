@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/0dbaae0e9fa54f69a2d30430e8e8d07a/artifacts
+end_time: 1685295845145
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 0dbaae0e9fa54f69a2d30430e8e8d07a
+run_name: puzzled-hog-185
+run_uuid: 0dbaae0e9fa54f69a2d30430e8e8d07a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685295807309
+status: 3
+tags: []
+user_id: Shubham Chandrakar

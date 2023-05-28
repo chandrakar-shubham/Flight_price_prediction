@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/44d47c8250ba45009c14e499e2ca9419/artifacts
+end_time: 1685295795278
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 44d47c8250ba45009c14e499e2ca9419
+run_name: rogue-flea-987
+run_uuid: 44d47c8250ba45009c14e499e2ca9419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685295782116
+status: 3
+tags: []
+user_id: Shubham Chandrakar

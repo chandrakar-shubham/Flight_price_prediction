@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/ae164986baf34bc79341ee3fd7f05771/artifacts
+end_time: 1685295901672
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: ae164986baf34bc79341ee3fd7f05771
+run_name: upset-zebra-642
+run_uuid: ae164986baf34bc79341ee3fd7f05771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685295846878
+status: 3
+tags: []
+user_id: Shubham Chandrakar
