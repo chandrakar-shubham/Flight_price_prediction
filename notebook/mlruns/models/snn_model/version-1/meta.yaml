@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685308468438
+current_stage: None
+description: null
+last_updated_timestamp: 1685308468438
+name: snn_model
+run_id: 08865878be034086a4f18e00368b4c8c
+run_link: null
+source: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/08865878be034086a4f18e00368b4c8c/artifacts/snn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

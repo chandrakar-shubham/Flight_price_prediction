@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685305539453
+current_stage: None
+description: null
+last_updated_timestamp: 1685305539453
+name: xgboost_model
+run_id: 5038468fbee84bfb867fd59dc9d7872c
+run_link: null
+source: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/5038468fbee84bfb867fd59dc9d7872c/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 2

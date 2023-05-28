@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/8b52bf8d3377464d960790da43f3d5c8/artifacts
+end_time: 1685305655919
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 8b52bf8d3377464d960790da43f3d5c8
+run_name: victorious-ape-216
+run_uuid: 8b52bf8d3377464d960790da43f3d5c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685305597329
+status: 3
+tags: []
+user_id: Shubham Chandrakar

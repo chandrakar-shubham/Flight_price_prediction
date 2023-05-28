@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/5038468fbee84bfb867fd59dc9d7872c/artifacts
+end_time: 1685305539527
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 5038468fbee84bfb867fd59dc9d7872c
+run_name: powerful-foal-397
+run_uuid: 5038468fbee84bfb867fd59dc9d7872c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685305515169
+status: 3
+tags: []
+user_id: Shubham Chandrakar

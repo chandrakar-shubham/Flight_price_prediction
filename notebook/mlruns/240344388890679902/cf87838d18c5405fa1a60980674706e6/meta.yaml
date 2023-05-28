@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/cf87838d18c5405fa1a60980674706e6/artifacts
+end_time: 1685305591767
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: cf87838d18c5405fa1a60980674706e6
+run_name: omniscient-fowl-240
+run_uuid: cf87838d18c5405fa1a60980674706e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685305547118
+status: 3
+tags: []
+user_id: Shubham Chandrakar

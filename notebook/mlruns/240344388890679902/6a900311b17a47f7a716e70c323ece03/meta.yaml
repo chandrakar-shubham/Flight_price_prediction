@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/6a900311b17a47f7a716e70c323ece03/artifacts
+end_time: 1685305796384
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 6a900311b17a47f7a716e70c323ece03
+run_name: defiant-bear-809
+run_uuid: 6a900311b17a47f7a716e70c323ece03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685305773400
+status: 4
+tags: []
+user_id: Shubham Chandrakar

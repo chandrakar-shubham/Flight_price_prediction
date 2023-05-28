@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/cc19beb4c1d3455fa15058ef27d32989/artifacts
+end_time: 1685297752420
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: cc19beb4c1d3455fa15058ef27d32989
+run_name: bright-jay-822
+run_uuid: cc19beb4c1d3455fa15058ef27d32989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685297743783
+status: 3
+tags: []
+user_id: Shubham Chandrakar

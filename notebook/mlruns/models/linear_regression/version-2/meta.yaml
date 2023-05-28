@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685297742568
+current_stage: None
+description: null
+last_updated_timestamp: 1685297742568
+name: linear_regression
+run_id: fc2650bf11ed49aa8259295ff70b202e
+run_link: null
+source: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/fc2650bf11ed49aa8259295ff70b202e/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 2

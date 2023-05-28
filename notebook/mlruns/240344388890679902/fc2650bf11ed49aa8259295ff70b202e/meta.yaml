@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/fc2650bf11ed49aa8259295ff70b202e/artifacts
+end_time: 1685297742630
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: fc2650bf11ed49aa8259295ff70b202e
+run_name: amazing-foal-822
+run_uuid: fc2650bf11ed49aa8259295ff70b202e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685297734389
+status: 3
+tags: []
+user_id: Shubham Chandrakar

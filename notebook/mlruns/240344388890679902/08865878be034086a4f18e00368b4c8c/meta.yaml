@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/08865878be034086a4f18e00368b4c8c/artifacts
+end_time: 1685308468499
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 08865878be034086a4f18e00368b4c8c
+run_name: tasteful-shrimp-504
+run_uuid: 08865878be034086a4f18e00368b4c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685308212234
+status: 3
+tags: []
+user_id: Shubham Chandrakar

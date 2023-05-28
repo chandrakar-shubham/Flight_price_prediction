@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/67cc6d2a4cee41ef86c628b6d03016ba/artifacts
+end_time: 1685297785716
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 67cc6d2a4cee41ef86c628b6d03016ba
+run_name: ambitious-hare-304
+run_uuid: 67cc6d2a4cee41ef86c628b6d03016ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685297753474
+status: 3
+tags: []
+user_id: Shubham Chandrakar

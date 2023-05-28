@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/eb36439ce306446b9f978a9219c3b796/artifacts
+end_time: 1685305507631
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: eb36439ce306446b9f978a9219c3b796
+run_name: intelligent-kite-417
+run_uuid: eb36439ce306446b9f978a9219c3b796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685305490452
+status: 3
+tags: []
+user_id: Shubham Chandrakar

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/9105c1ca80e446e19abdd7bc387f2d41/artifacts
+end_time: 1685304196007
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 9105c1ca80e446e19abdd7bc387f2d41
+run_name: loud-squid-709
+run_uuid: 9105c1ca80e446e19abdd7bc387f2d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685297837747
+status: 4
+tags: []
+user_id: Shubham Chandrakar

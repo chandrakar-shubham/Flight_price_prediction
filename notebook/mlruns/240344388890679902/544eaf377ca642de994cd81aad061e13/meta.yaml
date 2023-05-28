@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Shubham%20Chandrakar/github/Flight_price_prediction/notebook/mlruns/240344388890679902/544eaf377ca642de994cd81aad061e13/artifacts
+end_time: 1685307020754
+entry_point_name: ''
+experiment_id: '240344388890679902'
+lifecycle_stage: active
+run_id: 544eaf377ca642de994cd81aad061e13
+run_name: crawling-gnat-974
+run_uuid: 544eaf377ca642de994cd81aad061e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685305800468
+status: 3
+tags: []
+user_id: Shubham Chandrakar
