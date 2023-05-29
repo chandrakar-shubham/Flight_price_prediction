@@ -11,6 +11,8 @@ Create a model which will predict the price of the flight
 - Scikit-Learn
 - Tensorflow
 - RegEx
+- MLFlow
+- pickle
 
 # Install required libraries and dependencies
 
