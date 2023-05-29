@@ -12,8 +12,9 @@ Create a model which will predict the price of the flight
 - Tensorflow
 - RegEx
 
-# Install requirement
-<pip install -r requirements.txt>
+# Install required libraries and dependencies
+
+pip install -r requirements.txt
 
 
 # Data Description
