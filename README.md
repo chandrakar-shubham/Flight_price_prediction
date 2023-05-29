@@ -12,10 +12,14 @@ Create a model which will predict the price of the flight
 - Tensorflow
 - RegEx
 
+# Install requirement
+<pip install -r requirements.txt>
+
+
 # Data Description
 Two different data sources provides data for flights with economy and business class seats.
 
-# latest notebook
+# Latest notebook
 https://github.com/chandrakar-shubham/Flight_price_prediction/blob/main/notebook/ML_Model_v2.ipynb
 
 # Data Dictionary
