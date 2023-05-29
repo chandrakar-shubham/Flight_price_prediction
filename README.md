@@ -14,7 +14,7 @@ Create a model which will predict the price of the flight
 
 # Install required libraries and dependencies
 
-```shell pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 
 # Data Description
