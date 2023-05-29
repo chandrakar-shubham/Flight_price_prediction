@@ -20,7 +20,7 @@ Create a model which will predict the price of the flight and draw useful insigh
 
 
 # Data Description
-Two different data sources provides data for flights with economy and business class seats for various dates with features like date,price,from,to,time_taken etc.
+Two different data sources provides data for flights with economy and business class seats for various dates with features like date, price, from, to, time_taken etc.
 
 # Latest notebook
 https://github.com/chandrakar-shubham/Flight_price_prediction/blob/main/notebook/ML_Model_v2.ipynb
